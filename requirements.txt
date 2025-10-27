@@ -4,5 +4,8 @@ numpy
 matplotlib
 plotly
 seaborn
+pycaret
+Pillow
+
 
 
